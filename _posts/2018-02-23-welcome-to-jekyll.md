@@ -1,29 +1,38 @@
 ---
 layout: post
 title: Welcome to Jekyll!
-meta_description: A description may also be set in a post. You can find more information about it in pages/about.md.
+meta_description: A description may also be set in a post. You can find more
+  information about it in pages/about.md.
 author: dan_urbanowicz
-date: '2018-07-03 12:00:00'
+date: 2018-07-03 12:00:00
+intro_paragraph: >-
+  <!--StartFragment-->
+
+
+  ### **AirDrop Nedir?**
+
+
+  “Gökten para yağması” deyiminin kripto para dünyasındaki adı AirDrop’tur. Daha da açmak gerekirse; AirDrop, [kripto para piyasası](https://www.coinkolik.com/kripto-para-piyasasi-nedir/)na yeni dahil olacak paraların karşılıksız şekilde dağıtılmasıdır. Buradaki amaç, piyasaya yeni girmiş parayı insanlara tanıtmak ve hareketlilik yaratmaktır.
+
+
+  AirDrop sistemini bir nevi, markaların piyasa yeni çıkacak ürünlerinin reklamını yapması ya da promosyon uygulaması gibi düşünebilirsiniz. Reklamlara rağmen ürünlerin satış yapmama ihtimali olduğu gibi, kripto paraların da AirDrop’a rağmen borsaya girmeme ihtimalleri var. Fakat yine de bu sistemi kullanmak, coin yaratıcıları için cazip bir seçenektir.
+
+
+  <!--EndFragment-->
 categories: misc
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<!--StartFragment-->
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### **AirDrop Nasıl Alınır?**
 
-Jekyll also offers powerful support for code snippets:
+[Kripto para](https://www.coinkolik.com/kripto-para-nedir-ne-ise-yarar/) dünyasının sıkı bir ilgi ve takip istediğini hep söyleriz. AirDrop’tan faydalanmak için de bu durum geçerli. Var olan tüm coin’lerin sitelerini ve kripto para borsası ile ilgili gelişmelerin aktarıldığı mecraları takip etmeniz gerekiyor. Eğer bir coin çatallaşmaya gidecekse, bir altcoin çıkacaksa öncelikle kendi sitesinden duyurusunu yapar. AirDrop için gerekli olan şartlar da yine burada bildirilir ve başvurular açılır. Şartlara uygun olan kişilere yönlendirmeler gönderilir ve bunun sonunda kişiler AirDrop’tan faydalanırlar.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Kripto para dünyasında hatırı sayılır bir unvanınız varsa, sosyal medya mecralarda takipçi sayınız çoksa (bu alanla ilgili paylaşım yapan kişiler için) karşılıksız şekilde de AirDrop’tan faydalanma ihtimaliniz var. Genelde coin yöneticileri, bu kişilere direkt ulaşırlar.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### **AirDrop Riskli mi Yoksa Kazançlı mı?**
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Her zaman, her şeyde olduğu gibi burada riskler ve kazançlar söz konusu. Şöyle ki; size hediye olarak gelen coin’ler, zamanla ciddi ölçüde yükselişe geçebilirler. Yatırım yapmadan sahip olduğunuz bir şeyden kar kazanabilirsiniz. Belki borsaya girdikten sonra verilen coin’leri kullanarak farklı coin’ler de alabilirsiniz. Bu karınız daha da arttırabilir. Daha sonra yatırımlarınızı reel paraya çevirebilir ya da mobil [cüzdan](https://www.coinkolik.com/kripto-para-cuzdani-nedir-kripto-para-nasil-saklanir/)ınızda biriktirebilirsiniz; tercih sizin!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Güzel senaryoların yanı sıra, AirDrop ile elde ettiğiniz paralar hiç değer kazanmayabilir hatta borsaya giremeyebilirler bile. Fakat reel bakarsak, bu durum da bir kayıp olarak tanımlanmayabilir. Yani, zaten hiç sizin olmayan bir şeyin olmamaya devam etmesi gibi de değerlendirilebilir. Nasıl baktığınıza bağlı olarak değişmekle birlikte AirDrop ile yaşayacağınız en kötü durum bundan öteye gitmeyecektir.
+
+<!--EndFragment-->
